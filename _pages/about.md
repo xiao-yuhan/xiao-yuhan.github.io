@@ -33,9 +33,12 @@ Partial major courses:
 - Autonomous Driving
 - Integrated Design of Unmanned Vehicles
 
+<span class='anchor' id='-educations'></span>
+
 # 🎓 Educations 
 - *2020.09 - today*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> College of Intelligence Science and Technology, National University of Defense Technology, Changsha, Hunan， currently pursuing a Bachelor's degree in Artificial Intelligence
  
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
 
@@ -54,6 +57,8 @@ Partial major courses:
 ---
 - 
 Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Chen; `Xiao Yuhan` Wireless power transmission system coil mutual inductance modeling method and device:CN202111644497.7[P]. 2022-04-08.[[URL]](https://patentscope.wipo.int/search/zh/detail.jsf?docId=CN357993360)
+
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🏅 Honors and Awards
 - *2023* Win the `2nd Prize` in The Interdisciplinary Contest in Modeling(ICM)
@@ -76,7 +81,7 @@ Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Che
 - *2021* Complete a Provicial Project of University Student Innovation and Entrepreneurship(Research on analysis and optimization methods of underwater wireless power transfer system)
 - *2021* Awarded the `Second-Class Scholarship` of National University of Defence Technology
 
-
+<span class='anchor' id='-Certificates-and-Skills'></span>
 
 # 🧰 Certificates and Skills
 ### Vocational skills
@@ -92,6 +97,8 @@ Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Che
 ### English Certificates
 - 2021 CET6
 - 2020 CET4
+
+<span class='anchor' id='-internships'></span>
 
 # 🏭 Internships
 - *2023.08*, Shenzhen InnoX, Shenzhen,Guangdong
