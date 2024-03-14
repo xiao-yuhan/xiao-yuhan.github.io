@@ -55,17 +55,24 @@ Partial major courses:
 
 ### Patents
 ---
-- 
-Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Chen; `Xiao Yuhan` Wireless power transmission system coil mutual inductance modeling method and device:CN202111644497.7[P]. 2022-04-08.[[URL]](https://patentscope.wipo.int/search/zh/detail.jsf?docId=CN357993360)
+- Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Chen; `Xiao Yuhan` Wireless power transmission system coil mutual inductance modeling method and device:CN202111644497.7[P]. 2022-04-08.[[URL]](https://patentscope.wipo.int/search/zh/detail.jsf?docId=CN357993360)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🏅 Honors and Awards
+### Projects
+---
+- *2023* Provicial Project of University Student Innovation and Entrepreneurship(A new EOD robot based on the 3P3R structure)
+- *2022* National Project of University Student Innovation and Entrepreneurship(Vision and UWB heterogeneous sensor fusion indoor intelligent care system)
+- *2021* Provicial Project of University Student Innovation and Entrepreneurship(Research on analysis and optimization methods of underwater wireless power transfer system)
+
+### Awards
+---
 - *2023* Win the `2nd Prize` in The Interdisciplinary Contest in Modeling(ICM)
 - *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship(National Competition)
 - *2023* Win the `1st Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship(Regional Competition)
 - *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University League(Regional Competition)
-- *2023* Initiate a Provicial Project of University Student Innovation and Entrepreneurship(A new EOD robot based on the 3P3R structure)
+
 - *2023* Awarded the `Third-Class Scholarship` of National University of Defence Technology
 - *2022* Win the `3rd Prize` in The 12nd Asia and Pacific Mathematical Contest in Modeling(APMCM)
 - *2022* Win the `1st Prize` in China Robot Competition - Underwater Robot Group
@@ -73,18 +80,19 @@ Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Che
 - *2022* Win the `2rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship(Regional Competition)
 - *2022* Win the `3rd Prize` in The iCAN International Innovation and Entrepreneurship Competition(Provicial Competition)
 - *2022* Win the `3rd Prize` in The 14th Mathematical Modeling Challenge for College Students in Central China Cup
-- *2022* Complete a National Project of University Student Innovation and Entrepreneurship(Vision and UWB heterogeneous sensor fusion indoor intelligent care system)
+
 - *2021* Win the `2nd Prize` in The 11st Asia and Pacific Mathematical Contest in Modeling(APMCM)
 - *2021* Win the `2nd Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship(National Competition)
 - *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship(Regional Competition)
 - *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Technical Challenge(Regional Competition)
-- *2021* Complete a Provicial Project of University Student Innovation and Entrepreneurship(Research on analysis and optimization methods of underwater wireless power transfer system)
+
 - *2021* Awarded the `Second-Class Scholarship` of National University of Defence Technology
 
 <span class='anchor' id='-Certificates-and-Skills'></span>
 
 # 🧰 Certificates and Skills
 ### Vocational skills
+---
 - Understand programming norms/idioms/design patterns and be familiar with Git commands.
 - Familiar with multiple programming languages (C++,Python,Matlab) and frameworks (Pytorch,Opencv,Pandas).
 - Able to perform basic embedded development (Linux, ROS/ROS2, STM32) and understand basic hardware and software principles.
@@ -92,9 +100,11 @@ Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Che
 - Familiar with relevant scientific research drawing tools (e.g. Origin), able to LaTeX to write papers and Markdown syntax to write documents as well.
 
 ### Software Certificates
+---
 - 2021 National Computer Rank Examination Certificate of Level 2
 
 ### English Certificates
+---
 - 2021 CET6
 - 2020 CET4
 
