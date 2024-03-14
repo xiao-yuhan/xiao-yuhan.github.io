@@ -62,9 +62,9 @@ Partial major courses:
 # 🏅 Honors and Awards
 ### Projects
 ---
-- *2023* Provicial Project of University Student Innovation and Entrepreneurship(A new EOD robot based on the 3P3R structure)
+- *2023* provincial Project of University Student Innovation and Entrepreneurship(A new EOD robot based on the 3P3R structure)
 - *2022* National Project of University Student Innovation and Entrepreneurship(Vision and UWB heterogeneous sensor fusion indoor intelligent care system)
-- *2021* Provicial Project of University Student Innovation and Entrepreneurship(Research on analysis and optimization methods of underwater wireless power transfer system)
+- *2021* provincial Project of University Student Innovation and Entrepreneurship(Research on analysis and optimization methods of underwater wireless power transfer system)
 
 ### Awards
 ---
@@ -78,7 +78,7 @@ Partial major courses:
 - *2022* Win the `1st Prize` in China Robot Competition - Underwater Robot Group
 - *2022* Win the `3rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship(National Competition)
 - *2022* Win the `2rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship(Regional Competition)
-- *2022* Win the `3rd Prize` in The iCAN International Innovation and Entrepreneurship Competition(Provicial Competition)
+- *2022* Win the `3rd Prize` in The iCAN International Innovation and Entrepreneurship Competition(provincial Competition)
 - *2022* Win the `3rd Prize` in The 14th Mathematical Modeling Challenge for College Students in Central China Cup
 
 - *2021* Win the `2nd Prize` in The 11st Asia and Pacific Mathematical Contest in Modeling(APMCM)
