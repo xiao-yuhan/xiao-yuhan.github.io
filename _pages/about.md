@@ -26,12 +26,12 @@ Partial major courses:
 - Advanced Language Programming (C++)
 - Fundamentals of Software Design (C++)
 - Robot Operating System (ROS)
-- Computer network
+- Computer Network
 - Fundamentals of Artificial Intelligence
-- Image processing and understanding
-- Machine learning
-- Autonomous driving
-- Integrated design of unmanned vehicles
+- Image Processing and Understanding
+- Machine Learning
+- Autonomous Driving
+- Integrated Design of Unmanned Vehicles
 
 # 🎓 Educations 
 - *2020.09 - today*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> College of Intelligence Science and Technology, National University of Defense Technology, Changsha, Hunan， currently pursuing a Bachelor's degree in Artificial Intelligence
@@ -74,11 +74,11 @@ Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Che
 - *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship(Regional Competition)
 - *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Technical Challenge(Regional Competition)
 - *2021* Complete a Provicial Project of University Student Innovation and Entrepreneurship(Research on analysis and optimization methods of underwater wireless power transfer system)
-- *2021* Awarded the `Second-Class Scholarship` of National University of Defence Technologyv
+- *2021* Awarded the `Second-Class Scholarship` of National University of Defence Technology
 
 
 
-# 🧰 Certificates & Skills
+# 🧰 Certificates and Skills
 ### Vocational skills
 - 了解编程规范/惯用法/设计模式，熟悉git版本管理命令
 - 熟悉多门编程语言(C++,Python,Matlab)和框架(Pytorch,Opencv,Pandas)
