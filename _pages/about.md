@@ -102,6 +102,6 @@ Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Che
 
 # 🏭 Internships
 - *2023.08*, Shenzhen InnoX, Shenzhen,Guangdong
-- *2023.07*, CHINA NORTH INDUSTRIES GROUP Northwest Institute of Mechanical and Electrical Engineering, Xianyang, Shaanxi
+- *2023.07*, China North Industries Group Northwest Institute of Mechanical and Electrical Engineering, Xianyang, Shaanxi
 - *2022.07*, Changsha Technology Research institute of BeiDou Industry Safty, Changsha, Hunan
   
