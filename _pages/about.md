@@ -80,11 +80,11 @@ Dai Zhuoyue; Luo Yanting; Yang Yongmin; Li Lei; Shen Guoji; Peng Junjie; Liu Che
 
 # 🧰 Certificates and Skills
 ### Vocational skills
-- 了解编程规范/惯用法/设计模式，熟悉git版本管理命令
-- 熟悉多门编程语言(C++,Python,Matlab)和框架(Pytorch,Opencv,Pandas)
-- 能进行基本的嵌入式开发(Linux,ROS/ROS2,STM32)，并了解基本软硬件原理
-- 了解ML/DL基本原理，能使用pytorch进行机器学习和深度学习训练
-- 熟悉Origin相关科研绘图工具，熟练运用latex编写论文，掌握Markdown语法编写文档
+- Understand programming norms/idioms/design patterns and be familiar with Git commands.
+- Familiar with multiple programming languages (C++,Python,Matlab) and frameworks (Pytorch,Opencv,Pandas).
+- Able to perform basic embedded development (Linux, ROS/ROS2, STM32) and understand basic hardware and software principles.
+- Understand the fundamentals of ML/DL and be able to use pytorch for machine learning and deep learning training.
+- Familiar with relevant scientific research drawing tools (e.g. Origin), able to LaTeX to write papers and Markdown syntax to write documents as well.
 
 ### Software Certificates
 - 2021 National Computer Rank Examination Certificate of Level 2
