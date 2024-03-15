@@ -62,29 +62,29 @@ Partial major courses:
 # 🏅 Honors and Awards
 ### Projects
 ---
-- *2023* provincial Project of University Student Innovation and Entrepreneurship(A new EOD robot based on the 3P3R structure)
-- *2022* National Project of University Student Innovation and Entrepreneurship(Vision and UWB heterogeneous sensor fusion indoor intelligent care system)
-- *2021* provincial Project of University Student Innovation and Entrepreneurship(Research on analysis and optimization methods of underwater wireless power transfer system)
+- *2023* provincial Project of University Student Innovation and Entrepreneurship (A new EOD robot based on the 3P3R structure)
+- *2022* National Project of University Student Innovation and Entrepreneurship (Vision and UWB heterogeneous sensor fusion indoor intelligent care system)
+- *2021* provincial Project of University Student Innovation and Entrepreneurship (Research on analysis and optimization methods of underwater wireless power transfer system)
 
 ### Awards
 ---
-- *2023* Win the `2nd Prize` in The Interdisciplinary Contest in Modeling(ICM)
-- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship(National Competition)
-- *2023* Win the `1st Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship(Regional Competition)
-- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University League(Regional Competition)
+- *2023* Win the `2nd Prize` in The Interdisciplinary Contest in Modeling (ICM)
+- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship (National Competition)
+- *2023* Win the `1st Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship (Regional Competition)
+- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University League (Regional Competition)
 
 - *2023* Awarded the `Third-Class Scholarship` of National University of Defense Technology
-- *2022* Win the `3rd Prize` in The 12nd Asia and Pacific Mathematical Contest in Modeling(APMCM)
+- *2022* Win the `3rd Prize` in The 12nd Asia and Pacific Mathematical Contest in Modeling (APMCM)
 - *2022* Win the `1st Prize` in China Robot Competition - Underwater Robot Group
-- *2022* Win the `3rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship(National Competition)
-- *2022* Win the `2rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship(Regional Competition)
-- *2022* Win the `3rd Prize` in The iCAN International Innovation and Entrepreneurship Competition(provincial Competition)
+- *2022* Win the `3rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship (National Competition)
+- *2022* Win the `2rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship (Regional Competition)
+- *2022* Win the `3rd Prize` in The iCAN International Innovation and Entrepreneurship Competition (provincial Competition)
 - *2022* Win the `3rd Prize` in The 14th Mathematical Modeling Challenge for College Students in Central China Cup
 
-- *2021* Win the `2nd Prize` in The 11st Asia and Pacific Mathematical Contest in Modeling(APMCM)
-- *2021* Win the `2nd Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship(National Competition)
-- *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship(Regional Competition)
-- *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Technical Challenge(Regional Competition)
+- *2021* Win the `2nd Prize` in The 11st Asia and Pacific Mathematical Contest in Modeling (APMCM)
+- *2021* Win the `2nd Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship (National Competition)
+- *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship (Regional Competition)
+- *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Technical Challenge (Regional Competition)
 
 - *2021* Awarded the `Second-Class Scholarship` of National University of Defense Technology
 
@@ -96,7 +96,7 @@ Partial major courses:
 - Understand programming norms/idioms/design patterns and be familiar with Git commands.
 - Familiar with multiple programming languages (C++,Python,Matlab) and frameworks (Pytorch,Opencv,Pandas).
 - Able to perform basic embedded development (Linux, ROS/ROS2, STM32) and understand basic hardware and software principles.
-- Understand the fundamentals of ML/DL and be able to use pytorch for machine learning and deep learning training.
+- Understand the fundamentals of ML/DL and be able to use Pytorch for machine learning and deep learning training.
 - Familiar with relevant scientific research drawing tools (e.g. Origin), able to LaTeX to write papers and Markdown syntax to write documents as well.
 
 ### Software Certificates
@@ -111,7 +111,7 @@ Partial major courses:
 <span class='anchor' id='-internships'></span>
 
 # 🏭 Internships
-- *2023.08*, Shenzhen InnoX, Shenzhen,Guangdong
+- *2023.08*, Shenzhen InnoX, Shenzhen, Guangdong
 - *2023.07*, China North Industries Group Northwest Institute of Mechanical and Electrical Engineering, Xianyang, Shaanxi
-- *2022.07*, Changsha Technology Research institute of BeiDou Industry Safty, Changsha, Hunan
+- *2022.07*, Changsha Technology Research institute of BeiDou Industry Safety, Changsha, Hunan
   
