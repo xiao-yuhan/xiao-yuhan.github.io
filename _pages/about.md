@@ -73,7 +73,7 @@ Partial major courses:
 - *2023* Win the `1st Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship(Regional Competition)
 - *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University League(Regional Competition)
 
-- *2023* Awarded the `Third-Class Scholarship` of National University of Defence Technology
+- *2023* Awarded the `Third-Class Scholarship` of National University of Defense Technology
 - *2022* Win the `3rd Prize` in The 12nd Asia and Pacific Mathematical Contest in Modeling(APMCM)
 - *2022* Win the `1st Prize` in China Robot Competition - Underwater Robot Group
 - *2022* Win the `3rd Prize` in The 21st National University Robot Competition RoboMaster2022 University Championship(National Competition)
@@ -86,7 +86,7 @@ Partial major courses:
 - *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Championship(Regional Competition)
 - *2021* Win the `1st Prize` in The 20th National University Robot Competition RoboMaster2021 University Technical Challenge(Regional Competition)
 
-- *2021* Awarded the `Second-Class Scholarship` of National University of Defence Technology
+- *2021* Awarded the `Second-Class Scholarship` of National University of Defense Technology
 
 <span class='anchor' id='-Certificates-and-Skills'></span>
 
