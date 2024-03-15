@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will graduate from College of Intelligence Science and Technology, National University of Defense Technology, majoring in artificial intelligence. During the period of studying in the university, I won more than 20 project awards, including 3 with international level, 5 with national level, 9 with provincial level, and won school-level scholarships twice. I played an significant role in completing one patent under the guidance of Assitant Prof. Luo Yanting and other teachers, and published one JCRQ1 paper under the guidance of Prof. [Huimin Lu]((https://www.researchgate.net/profile/Huimin-Lu-3)) and Associate Prof. [Xieyuanli Chen](https://xieyuanli-chen.com).
+I will graduate from College of Intelligence Science and Technology, National University of Defense Technology, majoring in artificial intelligence. During the period of studying in the university, I won more than 20 project awards, including 3 with international level, 5 with national level, 9 with provincial level, and won school-level scholarships twice. I played an significant role in completing one patent under the guidance of Assistant Prof. Luo Yanting and other teachers, and published one JCR Q1 paper under the guidance of Prof. [Huimin Lu]((https://www.researchgate.net/profile/Huimin-Lu-3)) and Associate Prof. [Xieyuanli Chen](https://xieyuanli-chen.com).
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 Partial major courses:
